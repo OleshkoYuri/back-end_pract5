@@ -1,0 +1,17 @@
+{
+    "name": "38099/back-end_pract5",
+    "autoload": {
+        "psr-4": {
+            "38099\\BackEndPract5\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oleshko Yuri",
+            "email": "y.o.oleshko@student.khai.edu"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.2"
+    }
+}
